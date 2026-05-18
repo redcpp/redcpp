@@ -17,5 +17,4 @@ Querétaro · Harvard Business School Online CORe (2022)
 #### Reach me
 
 [diegosaid.com](https://diegosaid.com) ·
-[linkedin.com/in/redcpp](https://linkedin.com/in/redcpp) ·
-redcpp@icloud.com
+[linkedin.com/in/redcpp](https://linkedin.com/in/redcpp)
