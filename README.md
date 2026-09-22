@@ -6,7 +6,7 @@ engineer and as a remote contractor for US teams.
 
 - 💼 **Currently:** open to freelance and contract work (backend, data pipelines, full-stack, LLM integration). I'm part of the [Toptal](https://www.toptal.com) network.
 - 🎓 **Studying:** M.S. in Computer Science at CU Boulder.
-- 🕰️ **Previously:** Tech Lead at Century 21 CAM Grupo (LLM document automation with MCP + Claude API, market-data pipelines, on-prem inference) · Oracle Big Data Service (OCI) · core dev on the xUSD stablecoin at xBacked DAO (Algorand) · healthcare platforms at Augusto Digital.
+- 🕰️ **Previously:** Tech Lead at Century 21 CAM Grupo · Oracle Big Data Service (OCI) · core dev on the xUSD stablecoin at xBacked DAO (Algorand) · healthcare platforms at Augusto Digital.
 - 🏆 ACM-ICPC Regional Finalist (2017 & 2018) · co-author in *Bioinformatics* (Oxford, 2019).
 - 📫 **Reach me:** [diegosaid.com](https://diegosaid.com) · [LinkedIn](https://linkedin.com/in/redcpp) · redcpp@gmail.com
 
